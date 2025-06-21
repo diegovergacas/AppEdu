@@ -62,7 +62,7 @@ Durante a aula, os alunos (ou a banca) participam de um **quiz interativo**, com
 
 ## 📂 Arquivos deste Repositório
 
-- `aulaTesteAppEdu.pptx` – Slides da apresentação com o conteúdo teórico, classificações e exemplos de aplicação.
+- `aulaTesteAppEdu.pdf` – Slides da apresentação com o conteúdo teórico, classificações e exemplos de aplicação.
 
 ---
 
